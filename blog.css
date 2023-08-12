@@ -1,0 +1,14 @@
+.responsibiltiyText > h1{
+    font-family: 'Tilt Prism', cursive;
+}
+.resList > div{
+    margin: 20px 80px;
+}
+
+.resItem > h2{
+    margin: 2px;
+}
+
+.resItem > h4{
+    margin: 10px;
+}

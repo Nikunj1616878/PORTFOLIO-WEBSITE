@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+body::-webkit-scrollbar{
+    display: none;
+  }
+
+.container{
+    display: flex;
+    background-image: url(./images/educationbg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.h-primary{
+    margin-top: 64px;
+    font-size: 45px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    font-weight: bolder;
+}
+
+#services{
+    margin: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#services .box{
+    
+   height: 350px;
+   width: 450px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0px 5px;
+    border-radius: 30px;
+    /* background-color: rgba(128, 128, 128, 0.137); */
+    background-color: rgb(165 165 165);
+}
+
+#services .box img{
+    /* height: 100px; */
+    /* width: 250px; */
+    border-radius: 10px;
+    padding: 10px;
+     display: block; 
+     margin: auto;
+}
+
+#services .box a{
+    text-decoration: none;
+    color: black;
+}
+
+.box p{
+    text-align: center;
+}
+
+/* utilities classes */
+.h-primary{
+    margin-top: 50px;
+    font-size: 45px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bolder;
+}
+
+.h-secondary{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+ }
+
+ .centre{
+    display: block;
+ }

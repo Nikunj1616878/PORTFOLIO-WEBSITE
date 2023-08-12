@@ -1,0 +1,156 @@
+Nikunj Garg
+
+nikunjgargcool1@gmail.com
++91 8950609689
+
+Student
+An enthusiastic problem solver eager to contribute to team success
+through hard work and dedication.
+
+Narnaul, Haryana, India
+linkedin.com/in/nikunj-garg-594418218
+github.com/Nikunj1616878
+
+EDUCATION
+
+SKILLS
+
+B.Tech. - Civil Engineering
+National Institute of Technology, Kurukshetra
+
+C / C++
+
+Python
+
+2020 - 2024,
+
+HTML
+
+CSS
+
+CGPA - 9.14 (upto 5th Semester)
+
+SQL
+
+ArcGis
+
+STAAD Pro
+
+Node JS
+
+MongoDB
+
+Algorithms
+AutoCAD
+React JS
+
+Express JS
+
+CBSE Percentage - 92.2%
+
+Secondary (Class 10th)
+D.A.V. Sr. Sec. School, Narnaul
+2017,
+
+JavaScript
+
+Problem Solving
+
+Senior Secondary (Class 12th)
+D.A.V. Sr. Sec. School, Narnaul
+2019,
+
+Data Structures
+
+CBSE CGPA - 9.6
+
+ACHIEVEMENTS
+Solved over 400 Coding Problems combined over all
+coding platforms.
+
+PERSONAL PROJECTS
+
+5 stars in Python Programming on HackerRank
+
+SEVA
+
+4 stars in SQL on HackerRank
+
+Developed a Crowdfunding Platform for collecting donations for
+College Clubs & Societies.
+Admin can create a new campaign and users can see the list of
+those.
+Users can donate to a campaign using RAZORPAY Payment
+Integration.
+Tech Stack Used - React JS, Node JS, MongoDB, Express JS
+
+Portfolio Website
+Developed my portfolio website which represents all of my
+skillset, education and achievements.
+It also describes my learning experiences while building these
+projects.
+Tech Stack Used - HTML, CSS, JavaScript
+
+Spotify Clone
+Developed a Spotify clone that lists all of the songs in user
+friendly interface.
+It allows user to play, pause, skip to next song.
+User can choose diﬀerent songs from the playlist.
+Tech Stack Used - HTML, CSS, JavaScript
+
+Achieved Rank 1 in Class 12th in PCM Stream in School
+Got the First Rank in Haryana Quiz Contest (District
+Level)
+Got 2nd Rank in Chess (DAV cluster level Games)
+Reached till ﬁnals of Productathon event in
+Techspardha 2022
+
+POSITION OF RESPONSIBILITY
+Assistant Supervisor at Forever Living Products (FLP)
+(FBO ID - 910900511211) (12/2020 - 03/2022)
+I used to Market FLP products to customers which improved my
+Communication and Marketing Skills. I invested my time on it during the
+lockdown period.
+
+Volunteer at Shiksha Society, NIT Kurukshetra
+
+WORK EXPERIENCE
+Site Engineer Intern
+Provisional Division PWD (B&R) Narnaul
+
+'Shiksha' under the aegis of the Students' Club for Social Action (SCSA),
+takes upon itself the responsibility for educating children.
+
+Management Head at IIC, NIT Kurukshetra
+Induction and Innovation Club is oﬃcial Finance and Entrepreneurship
+Society at NIT Kurukshetra.
+
+01/2023 - 06/2023,
+Widening and strengthening of road
+
+This Projects deals with widening and strengthening of road
+in Mahendragarh dist. Of Haryana.
+
+INTERESTS
+
+Analyzed and Inspected Lab Reports of Material used in
+construction according to Standard Indian Codes.
+
+Cricket
+
+Chess
+
+Under this project width of road changes from 3.66metre to
+5.5metre.
+
+Movies
+
+Finance
+
+Music
+
+Dance
+
+Business
+
+

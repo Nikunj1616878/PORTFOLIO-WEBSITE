@@ -1,0 +1,254 @@
+/* css reset */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* CSS variables */
+:root{
+    --navbar-height:59px;
+}
+
+/* Navigation bar */
+#navbar{
+    display: flex;
+    align-items: center;
+}
+
+/* Navigation bar logo and image */
+#logo{
+     margin: -4px 2px;
+}
+
+#logo img{
+      margin: 0px 10px;
+      height: 77px;
+      padding: 19px 20pxpx;
+}
+
+/* Navigation bar list styling */
+#navbar ul{
+    display: flex;
+}
+
+#navbar{
+    position: relative;
+    top: 0;
+}
+#navbar::before{
+      content: "";
+      background-color: black;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      height: 100%;
+      width: 100%;
+     z-index: -1;
+     opacity: 0.7;
+}
+
+#navbar ul li{
+    /* color: white; */
+    list-style: none;
+   font-size: 20px;
+}
+
+#navbar ul li a{
+    color: black;
+    display: block;
+    padding: 5px 25px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight:900;
+    font-family: 'Orbitron', sans-serif;
+}
+#navbar ul li a:hover{
+    color: white;
+    background-color:  black;
+}
+
+/* Home section */
+#home{
+    display: flex;
+    flex-direction: column;
+    padding: 34px 200px;
+    align-items: center;
+    justify-content: center;
+    height: 360px;
+}
+
+#home::before{
+    content: "";
+    position: absolute;
+    background: url('../img/bghd.jpg') no-repeat center center/cover;
+    height: 70%;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+   z-index: -1;
+   opacity: 0.9;
+}
+
+#services{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#services .box{
+    
+   height: 350px;
+   width: 450px;
+    border: 2px solid brown;
+    padding: 10px;
+    margin: 0px 3px;
+    border-radius: 30px;
+    background-color: #efeaea;
+}
+
+#services .box img{
+    /* height: 100px; */
+    /* width: 250px; */
+    padding: 10px;
+     display: block; 
+     margin: auto;
+
+}
+
+.box p{
+    text-align: center;
+}
+
+/* utilities classes */
+.h-primary{
+    margin-top: 64px;
+    font-size: 45px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    font-weight: bolder;
+}
+ #home p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Slabo 27px', serif;
+ }
+
+ .btn{
+    border: 2px solid black;
+    color: black;
+    background-color: #fff38c;
+    padding: 5px 7px;
+    margin: 11px 18px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Bruno Ace SC', cursive;
+    cursor: pointer;
+ }
+
+ .btn:hover{
+    color: white;
+    background-color:  black;
+ }
+
+ .h-secondary{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+ }
+
+ .centre{
+    display: block;
+    margin: auto;
+ }
+
+ /* client section  */
+.h-primary-oc{
+    font-size: 45px;
+    padding: 30px;
+    margin-top: 43px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    font-weight: bolder;
+}
+
+#client-section{
+    height: 400px;
+}
+
+#client-section::before{
+    content: "";
+    position: absolute;
+    background: url('../img/bg2.jpeg') no-repeat center center/cover;
+    height: 50%;
+    width: 100%;
+   z-index: -1;
+   opacity: 0.5;
+}
+
+ #clients{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.client-item{
+    padding: 35px;
+}
+ #clients img{
+    height: 125px;
+ }
+
+ /* contact section  */
+ .h-primary-c{
+    font-size: 45px;
+    padding: 30px;
+    text-align: center;
+    font-family: 'Slabo 27px', serif;
+    font-weight: bolder;
+ }
+
+ #contact{
+    position: relative;
+ }
+
+ #contact::before{
+    content: "";
+    position: absolute;
+    background: url('../img/cbg3.jpg') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+   z-index: -1;
+   opacity: 0.5;
+ }
+
+ footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+
+ #contactbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+ }
+
+ #contactbox input,#contactbox textarea
+ {  
+    width: 100%;
+    padding: 5px;
+    border-radius: 7px;
+    /* font-size: 10px; */
+    font-weight: bolder;
+ }
+
+ #contactbox form{
+     width: 40%;
+ }
+
+ #contactbox label{
+     font-size: 20px;
+ }
